@@ -67,10 +67,6 @@ function Player ({divId, width, height}) {
         }
     }
 
-    const getViewability = () => {
-        
-    }
-
     // Setters 
     const setAutoplay = (autoplay) => {
         video.current.autoplay = autoplay;
