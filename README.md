@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+If you download/clone the whole repo, before you can run the app, you need to do: 
+
+### `npm install`
+
+This will create a node_modules folder in the project root directory which contains all the necessary modules in order to run the app.
+
 In the project directory, you can run:
 
 ### `yarn start`
