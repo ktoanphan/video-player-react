@@ -1,23 +1,29 @@
 import logo from './logo.svg';
 import './App.css';
+import Player from './Player'
 
 function App() {
+
+  // Test data
+  let props = {
+    divId: "videoContainer",
+    width: "900", 
+    height: "650"
+  }
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h2>Video Player UI built with React.js <img src={logo} className="App-logo" alt="logo" /></h2>
       </header>
+
+      <body className="App-body">
+        
+        <div id="videoContainer">
+          <Player {...props}></Player>
+        </div>
+
+      </body>
     </div>
   );
 }
