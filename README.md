@@ -10,7 +10,7 @@ If you download/clone the whole repo, before you can run the app, you need to do
 
 This will create a node_modules folder in the project root directory which contains all the necessary modules in order to run the app.
 
-In the project directory, you can run:
+Then, in the project directory, you can run:
 
 ### `yarn start`
 
