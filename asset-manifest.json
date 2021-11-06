@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/video-player-react/static/css/main.89aa9adc.chunk.css",
+    "main.js": "/video-player-react/static/js/main.e0b2a978.chunk.js",
+    "main.js.map": "/video-player-react/static/js/main.e0b2a978.chunk.js.map",
+    "runtime-main.js": "/video-player-react/static/js/runtime-main.5454f621.js",
+    "runtime-main.js.map": "/video-player-react/static/js/runtime-main.5454f621.js.map",
+    "static/js/2.f74c8e87.chunk.js": "/video-player-react/static/js/2.f74c8e87.chunk.js",
+    "static/js/2.f74c8e87.chunk.js.map": "/video-player-react/static/js/2.f74c8e87.chunk.js.map",
+    "static/js/3.4f0b814d.chunk.js": "/video-player-react/static/js/3.4f0b814d.chunk.js",
+    "static/js/3.4f0b814d.chunk.js.map": "/video-player-react/static/js/3.4f0b814d.chunk.js.map",
+    "index.html": "/video-player-react/index.html",
+    "static/css/main.89aa9adc.chunk.css.map": "/video-player-react/static/css/main.89aa9adc.chunk.css.map",
+    "static/js/2.f74c8e87.chunk.js.LICENSE.txt": "/video-player-react/static/js/2.f74c8e87.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/video-player-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5454f621.js",
+    "static/js/2.f74c8e87.chunk.js",
+    "static/css/main.89aa9adc.chunk.css",
+    "static/js/main.e0b2a978.chunk.js"
+  ]
+}
