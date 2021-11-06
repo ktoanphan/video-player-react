@@ -92,7 +92,7 @@ function Player ({divId, width, height}) {
             <br></br>
             <br></br>
             <div id={divId}>
-                <video ref={video} id="video" height={height} width={width} autoplay={false}>
+                <video ref={video} id="video" controls height={height} width={width} autoplay={false}>
                     <source src="https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4" type="video/mp4" />
                     Not supported browser.
                 </video>
